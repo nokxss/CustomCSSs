@@ -8,5 +8,7 @@
     font-style: normal;
   }
 #h1 {
-    text-align: center;   
+    text-align: center;
+    background-color: #111111;
+    border-radius: 3px;
 }
